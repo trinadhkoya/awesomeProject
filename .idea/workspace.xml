@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32b6bf60-5ba5-4fa5-bcfa-0fc872f332d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1jvlAxn7Q31U7CLhg53CWkPYusP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2725" y="195" key="#GOPATH" timestamp="1604692446112">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2725" y="195" key="#GOPATH/1792.23.1920.1057/0.23.1792.1017@1792.23.1920.1057" timestamp="1604692446112" />
+    <state x="2783" y="433" key="Github.ShareDialog" timestamp="1604692394808">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2783" y="433" key="Github.ShareDialog/1792.23.1920.1057/0.23.1792.1017@1792.23.1920.1057" timestamp="1604692394808" />
+  </component>
+</project>
